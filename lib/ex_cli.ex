@@ -62,5 +62,5 @@ defmodule ExCLI do
     ExCLI.Formatter.Text.format(app(module), opts)
   end
 
-  defp app(module), do: module.__app__
+  defp app(module), do: module.__app__()
 end
