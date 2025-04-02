@@ -46,7 +46,7 @@ defmodule ExCLI.Mixfile do
       files: ["lib", "mix.exs", ".formatter.exs", "README.md"],
       licenses: ["MIT"],
       links: %{
-        "GitHub" => "https://github.com/tuvistavie/ex_cli",
+        "GitHub" => "https://github.com/sophiathedev/ex_cli",
         "Docs" => "http://hexdocs.pm/ex_cli/"
       }
     ]
